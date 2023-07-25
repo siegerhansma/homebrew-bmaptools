@@ -1,8 +1,8 @@
 class BmapTools < Formula
   desc "Tool to flash image files to block devices using the block map"
   homepage "https://github.com/intel/bmap-tools"
-  url "https://github.com/intel/bmap-tools/archive/v3.4.tar.gz"
-  sha256 "483c5dd9589920b5bdec85d4cdbe150adb3ca404d205504f85c0fb03edc69c2a"
+  url "https://github.com/intel/bmap-tools/archive/v3.6.tar.gz"
+  sha256 "0658afb972e7221aa16fece3f84e29e5102e901c929253d7fb6040bde28243f7"
 
   depends_on "python"
 
